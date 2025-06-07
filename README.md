@@ -1,2 +1,2 @@
 # AI-IDE-Prompts
-Useful prompt for AI Agents to kick off a project.
+Useful prompts for AI Agents to streamline workflow and reduce context drift.
